@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cine app</string>
+    <string name="emailInputHint">Email</string>
+    <string name="passwordInputHint">Password</string>
+    <string name="sign_inButtonText">Sign in</string>
+    <string name="repeat_passwordInputHint">Repeat password</string>
+    <string name="nameInputHint">Name</string>
+    <string name="sign_upButtonText">sign up</string>
+    <string name="goToSignInScreenButtonText">I already have an account</string>
+    <string name="goToSignUpScreenButtonText">I don\'t have an account</string>
+</resources>

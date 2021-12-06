@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/cursor.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/gradient_progress.xml" value="0.34427083333333336" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/green_blue_gradient.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_left_rounded_shape.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_star.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/left_rounded.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/pb_custom.xml" value="0.5555555555555556" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/transparent_background.xml" value="0.5661458333333333" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_film_category.xml" value="0.328125" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_film_info.xml" value="0.328125" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_films.xml" value="0.55" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.55" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.55" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/film.xml" value="0.55" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/film_group_rv.xml" value="0.55" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/layout/film_on_category_activity.xml" value="0.328125" />
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.34427083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.55" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
